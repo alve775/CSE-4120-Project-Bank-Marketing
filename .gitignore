@@ -1,0 +1,15 @@
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+__pycache__/
+.DS_Store
+
+# Ignore dataset (not allowed by license)
+bank-additional.csv
+data/
