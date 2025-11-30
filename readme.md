@@ -103,8 +103,7 @@ Open:
 
 bank_analysis.ipynb
 
-
-##  🛠 Tools & Libraries Used
+ 🛠 Tools & Libraries Used
 	•	Python
 	•	Jupyter Notebook
 	•	Pandas, NumPy
@@ -114,3 +113,10 @@ bank_analysis.ipynb
 	•	PCA, Chi-Square Feature Selection
 	•	K-Fold Cross Validation
 	•	FP-Growth & Association Rules
+
+
+📌 Author
+
+Kamruzzaman Khan Alve
+RUET, CSE Department
+Machine Learning & Data Mining Project
